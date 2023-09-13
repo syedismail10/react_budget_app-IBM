@@ -36,7 +36,3 @@
     transform: rotate(360deg);
   }
 }
-
-.alert alert-secondary {
-    color : lightgreen;
-}
