@@ -12,15 +12,17 @@ code {
     monospace;
 }
 
-.alert-alert-secondary{
+/* .alert alert-secondary{
     color: white;
     background-color: mediumseagreen;
     padding: 8 px 12 px;
     border-radius:5 px;
 
-}
+} */
 
 .Location {
     background-color: mediumseagreen;
-    color :black;
+    color:white;
+    padding : 8 px 12 px;
+    border-radius: 5%;
 }
